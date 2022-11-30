@@ -1,0 +1,18 @@
+#odd {
+    color: red;
+    border: 5px red solid;
+}
+
+#even {
+    color: green;
+    border: 5px green solid;
+}
+
+div p {
+    text-align: center;
+    font-size: large;
+}
+
+div h2 {
+    text-align: center;
+}
